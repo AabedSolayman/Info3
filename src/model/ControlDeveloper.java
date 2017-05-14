@@ -12,6 +12,7 @@
 package model;
 
 public class ControlDeveloper {
+	//IAM TRYING TO MAKE SOME CHANGES, DID YOU GET IT IN GITHUB?
 	// attributes
 	/**
 	 * @param name
@@ -28,9 +29,9 @@ public class ControlDeveloper {
 		/**
 		 * @exception exercise
 		 *                1 Die ersten Schritte static erzeugt kein Objekt und
-		 *                lässt sich mit static getName und Attribut
-		 *                "String name" printen Statische Methoden und Variablen
-		 *                benötigen keinerlei Instanzen einer Klasse, um
+		 *                lï¿½sst sich mit static getName und Attribut "String
+		 *                name" printen Statische Methoden und Variablen
+		 *                benï¿½tigen keinerlei Instanzen einer Klasse, um
 		 *                aufgerufen zu werden
 		 * @author Lukas Erkert
 		 */
@@ -89,7 +90,7 @@ public class ControlDeveloper {
 
 	/**
 	 * @exception static
-	 *                String benötigt man um auf static name zuzugreifen da
+	 *                String benï¿½tigt man um auf static name zuzugreifen da
 	 *                diese nur in der Klasse sichbar ist
 	 * @return name
 	 * @author Lukas Erkert
